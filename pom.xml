@@ -72,7 +72,7 @@
             </plugin>
         </plugins>
     </build>
-<reporting>
+  <reporting>
   <plugins>
 	<!-- Normally, we take off the dependency report, saves time. -->
 	<plugin>
@@ -98,5 +98,5 @@
 	</plugin>
 
    </plugins>
-</reporting>
+ </reporting>
 </project>
